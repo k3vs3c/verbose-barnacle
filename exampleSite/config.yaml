@@ -121,7 +121,7 @@ params:
     title: "Kamal."
     subtitle: "I secure things for you."
     content: "As an Information Security Professional, my expertise lies in securing all aspects of information, including data, networks, cloud computing, and mobile devices. I am dedicated to ensuring that sensitive information is protected from potential threats, and that all security measures are in place to prevent unauthorized access or breaches."
-    image: https://res.cloudinary.com/dq9mx9izm/image/upload/q_100/v1681076347/IMG_8419_t9auer.png
+    #image: 
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
