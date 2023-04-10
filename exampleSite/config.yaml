@@ -56,7 +56,7 @@ params:
   title: "k3vs3c"
   description: Welcome to my website
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "https://res.cloudinary.com/dq9mx9izm/image/upload/v1681162158/k3vs3c/hacker_s19pr3.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
