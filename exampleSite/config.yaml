@@ -133,9 +133,9 @@ params:
       newPage: false
     socialLinks:
       fontAwesomeIcons:
-        - icon: fab fa-github
+        - icon: "fab fa-github"
           url: https://github.com/k3vs3c
-        - icon: fab fa-twitter
+        - icon: "fab fa-twitter"
           url: https://twitter.com/k3vs3c
       #customIcons:
       #  - icon: /fav.png
