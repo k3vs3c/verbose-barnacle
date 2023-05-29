@@ -174,7 +174,7 @@ params:
       - job: "Manager, Security Strategy and Relations"
         company: "Kinship"
         companyUrl: "https://kinship.co"
-        date: "Jan 2022 - present"
+        date: "Sep 2022 - present"
         #featuredLink:
           #enable: true
           #name: "View the project"
@@ -184,52 +184,50 @@ params:
       - job: "Senior Security Engineer"
         company: "Kinship"
         companyUrl: "https://kinship.co"
-        date: "Sep 2020 - Dec 2021"
+        date: "Jun 2022 - Sep 2022"
         #featuredLink:
           #enable: true
           #url: "https://example.com"
         info:
           enable: true
-          content: I worked as a senior security engineer but my skillset got me promoted.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          content: I worked as a senior security engineer and my skillset got me promoted.
+        content: "As a Senior Security Engineer, I have a proven track record of success in the areas of threat intelligence, incident response, security automation, security tooling, and product security."
 
       - job: "Manager Threat Intelligence"
         company: "Deserve"
         companyUrl: "https://deserve.com"
-        date: "Jan 2020 - Aug 2020"
+        date: "Jan 2021 - Dec 2021"
         info:
           enable: false
         featuredLink:
           enable: true
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          Threat Intelligence management with extensive experience in incident response, security operations, cloud security,
+mobile security, and security tooling. Adept at collaborating with engineering teams and contributing to multiple
+audits for PCI DSS and SOC. Proven ability to lay the foundation of a Security Operation Center and implement
+security posture management and policies.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
+        
+      - job: "Security Engineer"
+        company: "Deserve"
+        companyUrl: "https://deserve.com"
+        date: "June 2020 - Dec 2020"
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "https://deserve.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          Security Engineering with a proven track record in web application security, PCI DSS compliance, approved
+scanning vendors' scans, internal vulnerability assessment scans, API security, cloud security, and privacy
+management using a privacy data management platform.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+      - job: "Security Engineer - Intern"
+        company: "Deserve"
+        companyUrl: "https://deserve.com"
+        date: "Dec 2019 - May 2020"
+        content: "Interning as a Security Engineer with expertise in firewall management, incident response, vulnerability
+management, patch management, endpoint management, mobile device management, endpoint detection, and
+response management, and Jira automation."
 
   # Education
   education:
