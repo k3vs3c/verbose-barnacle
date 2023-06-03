@@ -181,7 +181,7 @@ params:
           #url: "https://example.com"
         content: "Manager Security Strategy with a strong background in risk assessment and mitigation. Adept at collecting and analyzing data to identify sources of risk, vulnerabilities, and challenges. Skilled in intelligence and counterintelligence activities, as well as in the implementation of emergency preparedness measures. Possess expertise in evaluating and acquiring new security tools and technology. Excellent communicator, able to effectively present findings and recommendations to decision-makers through comprehensive reports and presentations."
 
-      - job: "Senior Security Engineer"
+        job: "Senior Security Engineer"
         company: "Kinship"
         companyUrl: "https://kinship.co"
         date: "Sep 2020 - Dec 2021"
