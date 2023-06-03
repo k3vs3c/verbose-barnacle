@@ -179,11 +179,12 @@ params:
           #enable: true
           #name: "View the project"
           #url: "https://example.com"
-        content: "Bringing robust expertise to the role of Security Strategy Manager, I offer a formidable background in risk assessment and mitigation. My proficiency lies in methodically collecting and analyzing data to uncover risk sources, vulnerabilities, and challenges that may compromise information security. I am adept in the intricate workings of intelligence and counterintelligence activities, a skillset that bolsters my ability to fortify security infrastructure.
-
-A key part of my role involves the evaluation and acquisition of cutting-edge security tools and technology. With a discerning eye, I constantly seek innovations that can enhance our security portfolio and strengthen our defensive capabilities.
-
-Communication is the bridge that connects technical expertise and strategic decision-making. As an exceptional communicator, I am committed to making complex security concepts comprehensible to decision-makers. Through detailed reports and engaging presentations, I effectively convey key findings and strategic recommendations, ensuring informed decisions that bolster the security posture of our organization."
+        content: |
+        "Accomplished Security Strategy Manager, with a robust foundation in cybersecurity risk assessment and mitigation. Proficient in gathering and scrutinizing data to pinpoint potential attack vectors, system vulnerabilities, and security challenges within the digital landscape. Skilled in cybersecurity intelligence and counterintelligence operations, with a focus on proactive threat hunting and incident response strategies. Equally adept at implementing robust emergency preparedness measures and business continuity plans to ensure minimal disruption in the event of a security incident. 
+        
+        With a proven track record in the critical evaluation and acquisition of cutting-edge cybersecurity tools and technologies, I bring a comprehensive understanding of the evolving threat landscape and the strategies required to protect against it. I have a keen eye for the latest advancements in encryption, intrusion detection systems, firewall configurations, and secure network architectures.
+        
+        An effective communicator and strategic thinker, I excel in articulating complex cybersecurity findings and recommendations to decision-makers. Through detailed cybersecurity audits, comprehensive reports, and engaging presentations, I help steer informed decisions that fortify the organization's information security posture."
 
       - job: "Senior Security Engineer"
         company: "Kinship"
