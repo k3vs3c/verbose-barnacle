@@ -151,7 +151,7 @@ params:
       
       Currently, I am working as a security strategist at kinship.co in Montreal, Quebec, Canada. In this role, I am responsible for ensuring the Information Security of our customers across various Lines of Businesses. I am actively involved in several projects that involve designing and implementing robust security protocols to safeguard our systems and networks against potential cyber threats.
       
-      Overall, my goal is to stay ahead of the curve when it comes to emerging security threats and to use my skills and experience to help organizations like [Kinship](https:kinship.co) maintain the highest levels of security for their customers.
+      Overall, my goal is to stay ahead of the curve when it comes to emerging security threats and to use my skills and experience to help organizations like [Kinship](https:kinship.co) and [Deserve](https:deserve.com) maintain the highest levels of security for their customers.
     skills:
       enable: true
       title: "Here are a few technologies and frameworks I've been working with recently:"
@@ -191,11 +191,10 @@ params:
         info:
           enable: true
           content: I worked as a senior security engineer but my skillset got me promoted.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+        content:"I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
           - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Created a frontend design for a product."
 
       - job: "Manager Threat Intelligence"
         company: "Deserve"
@@ -206,11 +205,10 @@ params:
         featuredLink:
           enable: true
           url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+        content: " I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
           - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Created a frontend design for a product."
 
       - job: "UI/UX Designer"
         company: "Netflix"
@@ -219,11 +217,11 @@ params:
         featuredLink:
           enable: true
           url: "https://example.com"
-        content: |
+        content: "
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
           - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Created a frontend design for a product."
 
       - job: "Product Designer"
         company: "Google"
